@@ -18,3 +18,8 @@ This is my README file.
 ## Linking my document
 
 [Linked text] (https://github.com/katelyn-king/Collaboration-practice/)
+
+## Add image
+
+![Cat](https://upload.wikimedia.org/wikipedia/commons/c/cc/Cat_Cute.JPG)
+
