@@ -1,2 +1,5 @@
-# Collaboration-practice
+# Collaboration Practice
+
 We are using this repo for GitHub training
+
+This is my README file.
